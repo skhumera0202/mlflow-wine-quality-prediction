@@ -138,7 +138,8 @@ http://127.0.0.1:5000
 6. 📄 Source file
 
 ## 📁 Project Structure
----
+
+ ```text
 mlflow-project/
 │
 ├── app.py
@@ -147,7 +148,7 @@ mlflow-project/
 ├── mlflow.db
 ├── mlruns/
 └── venv/
----
+```
 
 venv/ should normally be added to .gitignore and should not be uploaded to GitHub.
 
