@@ -147,6 +147,7 @@ mlflow-project/
 ├── mlflow.db
 ├── mlruns/
 └── venv/
+---
 
 venv/ should normally be added to .gitignore and should not be uploaded to GitHub.
 
@@ -183,11 +184,16 @@ You should see the model training results in the terminal.
 **Example:**
 
 Model trained successfully!
+
 MAE: 0.6188630472018415
+
 RMSE: 0.762794521686023
+
 R2: 0.10963999179642603
+
 MLflow run completed!
-📊 View MLflow Dashboard
+
+## 📊 View MLflow Dashboard
 
 **Start MLflow:**
 
