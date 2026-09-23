@@ -1,4 +1,21 @@
 # 🍷 Wine Quality Prediction with MLflow
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-orange)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-green)
+
+> A machine learning project that predicts red wine quality and tracks experiments, parameters, metrics, and models using MLflow.
+
+---
+
+## ⭐ Project Highlights
+
+- 🍷 Predicts wine quality using machine learning
+- 🤖 Uses ElasticNet Regression
+- 📊 Evaluates the model using MAE, RMSE, and R²
+- 📈 Tracks experiments with MLflow
+- ⚙️ Logs model parameters and metrics
+- 💾 Logs the trained model
+- 🐍 Built with Python, Pandas, NumPy and Scikit-learn
 
 ## 📌 Project Overview
 
@@ -113,13 +130,12 @@ http://127.0.0.1:5000
 
 **In the MLflow dashboard, you can view:**
 
-1. Experiment
-2. Training runs
-3. Model parameters
-4. Model metrics
-5. Logged model
-6. Run duration
-7. Source file
+1. 📊 Experiment runs
+2. ⚙️ Model parameters
+3. 📈 Evaluation metrics
+4. 🤖 Logged model
+5. ⏱️ Run duration
+6. 📄 Source file
 
 ## 📁 Project Structure
 
@@ -219,6 +235,8 @@ Then open the training run to view the parameters, metrics, and logged model.
 ## 👩‍💻 Author
 
 **Humera Shaikh**
+
+Github:https://github.com/skhumera0202
 
 This project was created as part of my machine learning and MLOps learning journey.
 
