@@ -138,7 +138,7 @@ http://127.0.0.1:5000
 6. 📄 Source file
 
 ## 📁 Project Structure
-
+---
 mlflow-project/
 │
 ├── app.py
