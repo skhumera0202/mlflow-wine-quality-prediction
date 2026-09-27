@@ -63,8 +63,7 @@ with mlflow.start_run():
     mlflow.log_metric("r2", r2)
 
     # Log model
-    mlflow.sklearn.log_model(model, "model")
-
+    mlflow.sklearn.log_model(model, name="model")
 
 # Print results
 print("Model trained successfully!")
