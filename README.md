@@ -116,6 +116,24 @@ R²   = 0.1096399918
 
 The trained model was also logged in MLflow.
 
+## 📸 Project Screenshots
+
+### 🐙 GitHub Repository
+
+![GitHub Repository](image/github-repository.png)
+
+### 💻 Model Training Results
+
+![Model Results](image/model-results.png)
+
+### 📊 MLflow Metrics & Parameters
+
+![MLflow Metrics](image/mlflow-metrics.png)
+
+### 🤖 MLflow Logged Model
+
+![MLflow Logged Model](image/mlflow-model.png)
+
 ## 🖥️ MLflow UI
 
 The experiment can be viewed using the MLflow UI.
